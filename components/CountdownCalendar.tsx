@@ -71,7 +71,7 @@ const CountdownCalendar: React.FC<CountdownCalendarProps> = ({ targetDate }) => 
       </div>
 
       <div className="bg-white p-6 rounded-2xl shadow-lg max-w-sm mx-auto border border-[#E8D5C4]">
-        <h4 className="font-serif text-xl text-[#B8860B] mb-4 text-center">Enero 2026</h4>
+        <h4 className="font-serif text-xl text-[#B8860B] mb-4 text-center">Agosto 2026</h4>
         <div className="grid grid-cols-7 gap-1 text-center text-sm font-sans">
           {['L', 'M', 'M', 'J', 'V', 'S', 'D'].map(day => (
             <div key={day} className="font-bold text-[#7B8C6E] pb-2">{day}</div>
@@ -90,7 +90,7 @@ const CountdownCalendar: React.FC<CountdownCalendarProps> = ({ targetDate }) => 
           ))}
         </div>
         <p className="mt-6 text-center text-[#7B8C6E] font-serif italic">
-          Miércoles, 21 de Enero
+          Miércoles, 21 de Agosto
         </p>
       </div>
     </section>

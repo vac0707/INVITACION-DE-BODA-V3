@@ -48,7 +48,7 @@ const App: React.FC = () => {
             </Reveal>
 
             <Reveal>
-              <CountdownCalendar targetDate="2026-01-21T13:00:00" />
+              <CountdownCalendar targetDate="2026-11-21T13:00:00" />
             </Reveal>
 
             <Reveal className="py-16">

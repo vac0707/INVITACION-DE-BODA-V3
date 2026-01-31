@@ -55,7 +55,7 @@ const LocationRSVP: React.FC<LocationRSVPProps> = ({ guestName = '' }) => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-10 max-w-lg mx-auto">
           <div className="space-y-2">
             <p className="font-sans font-semibold text-[#B8860B] tracking-widest text-xs uppercase">¿CUÁNDO?</p>
-            <p className="text-2xl font-serif">Miércoles, 21 de Enero</p>
+            <p className="text-2xl font-serif">Sabado, 21 de Noviembre</p>
             <p className="text-xl font-serif text-[#7B8C6E]">1:00 p. m.</p>
           </div>
 

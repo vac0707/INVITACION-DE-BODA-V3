@@ -87,7 +87,7 @@ const LocationRSVP: React.FC<LocationRSVPProps> = ({ guestName = '' }) => {
           <h3 className="font-serif text-3xl text-[#7B8C6E]">Confirmación</h3>
           <p className="font-sans text-xs text-[#4A4A4A] italic leading-relaxed">
             Tu presencia es nuestro mejor regalo. <br />
-            Por favor confirma antes del 10 de Noviembre de 2026.
+            Por favor confirma antes del 10 de noviembre de 2026.
           </p>
         </div>
 
